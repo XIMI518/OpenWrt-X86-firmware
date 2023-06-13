@@ -1,1 +1,1 @@
-# OpenWrt-X86-firmware
+# OpenWrt-x86-firmware
